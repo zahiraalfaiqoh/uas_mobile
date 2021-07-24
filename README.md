@@ -8,3 +8,4 @@ yang terkoneksi dengan database mysql dengan bantuan Retrofit.
 * Web server :
   * File nya : 
 ## Screenshot UI Project :
+![img](https://github.com/zahiraalfaiqoh/uas_mobile/blob/main/app/src/main/res/drawable/ss.png)
